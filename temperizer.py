@@ -7,8 +7,6 @@ def convert_f_to_c(temperature_f):
     return temperature_c
 
 
-
-
 def convert_c_to_f(temperature_c):
     """Convert Celsius to Fahrenheit."""
     ## Add your code here
